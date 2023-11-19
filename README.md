@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### This is an R code I used in modeling interest rate risk using semi-heavy tail distributions of the Normal-Variance Mean mixtures for my Masters research. 
 <!--
 **Owi3/Owi3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
